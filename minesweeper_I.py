@@ -1,4 +1,4 @@
-# NOT DIFFICULT ONE
+# UGLY CODE
 
 # This challenge is based on the game Minesweeper.
 
